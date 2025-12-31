@@ -1,2 +1,2 @@
-rustc -C strip=symbols ./test.rs
-./test
+rustc -C strip=symbols ./intro.rs
+./intro
