@@ -1,0 +1,2 @@
+# INSTALL
+apt install -y rust-all
