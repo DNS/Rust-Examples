@@ -1,2 +1,4 @@
 # INSTALL
-apt install -y rust-all
+apt install -y gcc rust-all golang
+
+
